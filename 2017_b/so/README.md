@@ -21,6 +21,11 @@ El primer taller del curso sistemas operativos trata sobre el sistema operativo 
 1. Explique la función de los directorios en la raíz de sistema operativo Linux-CentOS.
 Proporcione ejemplos de los archivos que se encuentran en cada directorio (explique al menos un
 archivo por directorio).
+
+| Directorio   | Archivo ejemplo | Descripción del contenido del directorio  |
+|------|------|------|
+| a directory | an example file | an awesome description |
+
 2. En una tabla como se muestra a continuación escriba 10 comandos de Linux no visto en clase. Puede incluir comandos que funcionan una vez han sido instalados con yum
 
 | Comando   | Usuario | Descripción   |
