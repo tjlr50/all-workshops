@@ -2,7 +2,7 @@
 **Universidad ICESI**  
 **Curso:** Sistemas Operativos  
 **Docente:** Daniel Barragán C.  
-**Tema:** Comandos de Linux, Virtualización  
+**Tema:** Comandos de Linux, Estructura de directorio, Virtualización  
 **Correo:** daniel.barragan at correo.icesi.edu.co
 
 
@@ -14,7 +14,7 @@
 * Máquina virtual con sistema operativo CentOS7
 
 ### Descripción
-El primer taller del curso sistemas operativos trata sobre el sistema operativo Linux y virtualización 
+El primer taller del curso sistemas operativos trata sobre el sistema operativo Linux, la estructura de sus directorios y virtualización 
 
 ### Actividades
 
