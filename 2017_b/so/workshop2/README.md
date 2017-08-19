@@ -26,4 +26,6 @@ El informe debe ser entregado en formato README.md y debe ser subido a un reposi
 
 ## Referencias
 
-* http://www.computerhistory.org/
+
+* http://faculty.salina.k-state.edu/tim/ossg/Introduction/OShistory.html  
+* http://www.cs.gordon.edu/courses/cs322/lectures/history.html
