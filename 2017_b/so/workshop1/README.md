@@ -25,6 +25,22 @@ archivo por directorio).
 | Directorio   | Archivo ejemplo | Descripción del contenido del directorio  |
 |------|------|------|
 | a directory | an example file | an awesome description |
+|  bin        | cat              |Concatena archivos y/o los muestra como salida para verlos|
+|  boot| chain.b  | Ejecuta sistemas Operativos diferentes a Linux |
+| dev |  dsp  |  dsa* | Almacena particiones del sistema| 
+| etc |  X11 | Contiene la configuracion para Windows System |
+|  home| user1 | informacion y configuracion del User1 |
+| lib  | kbd | contiene varios keymaps para uso |
+| media| cdroom | accede al subsistema instalado previamente (unidad de cd) |
+|opt|<package>|lleva a los paquetes estaticos|
+|proc|devices| lista de dispositivos configurados|
+|root|home|archivos almacenados en el hom del super usuario(root)|
+|sbin|init|resume los archivos del init binarios que pueden ser esenciales para el sistema|
+|usr|X11R6|contiene librerias, ejecutables, documentos de X Windows Sistem|
+| var   | backups | contienen backups de varios sistemas para su recuperacion |
+| srv   | www | almacena archivos y directorios de servidores en el sistema como: www   |
+| tmp   | Chrome | almacena los archivos temporales  de corta duracion   |
+
 
 2. En una tabla como se muestra a continuación escriba 10 comandos de Linux no visto en clase. Puede incluir comandos que funcionan una vez han sido instalados con yum
 
