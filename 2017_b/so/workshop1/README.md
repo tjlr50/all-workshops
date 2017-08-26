@@ -46,7 +46,17 @@ archivo por directorio).
 
 | Comando   | Usuario | Descripción   |
 |------|------|------|
-| $ an awesome command | who call it | an awesome description |
+| more | root |Muestra un archivo pantalla por pantalla. |
+| tac | root |Concatena e imprime archivos invertidos. |
+| od | root |Convierte archivos a forma octal u otras. |
+| tr | root |Traduce o borra caracteres. |
+| uniq | root |Remueve líneas repetidas. |
+| wc | root |Cuenta bytes, palabras y líneas. |
+| cut | root |Corta secciones de una linea. |
+| dev | root |Remueve líneas repetidas. |
+| uniq | root |Supone que es un dispositivo de caracteres o bloques. |
+| exec | root |Se permite ejecución.. |
+
 
 3. ¿Cuál es la utilidad del comando printenv en Linux?, Investigue acerca de la creación de variables de ambiente en Linux y como hacerlas permanentes. Cree una variable de ambiente, hágala permanente y muestre evidencias del funcionamiento.
 
