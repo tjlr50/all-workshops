@@ -59,6 +59,7 @@ archivo por directorio).
 
 
 3. ¿Cuál es la utilidad del comando printenv en Linux?, Investigue acerca de la creación de variables de ambiente en Linux y como hacerlas permanentes. Cree una variable de ambiente, hágala permanente y muestre evidencias del funcionamiento.
+printenv imprime todo o parte de un enterno determinado, su sintaxis es: printenv [ OPCIÓN ] ... [ VARIABLE ], la cual imprime los valores del entorno especificado VARIABLE. Ejemplo: Printenv INICIO: Muestra la ubicación del directorio inicial del usuario actual.
 
 ### Nota
 
